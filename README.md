@@ -83,3 +83,7 @@ df2=df.copy()
 df2['HighlyPositiveSkew']= 1/df2.HighlyPositiveSkew
 sm.qqplot(df2.HighlyPositiveSkew,fit=True,line='45')
 plt.show()
+```
+```
+OUTPUT:
+![image](https://user-images.githubusercontent.com/119390134/237005035-afff1c03-270f-41a2-9c2a-1c1d3f39c70f.png)
