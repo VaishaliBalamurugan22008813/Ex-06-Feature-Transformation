@@ -86,4 +86,7 @@ plt.show()
 ```
 ```
 OUTPUT:
+![image](https://github.com/VaishaliBalamurugan22008813/Ex-06-Feature-Transformation/assets/119390134/b56ffa27-65b7-4a3b-970c-2a608c0e73f2)
+![image](https://github.com/VaishaliBalamurugan22008813/Ex-06-Feature-Transformation/assets/119390134/25dada52-1d7c-485b-b05c-44539b3d0cb2)
+![image](https://github.com/VaishaliBalamurugan22008813/Ex-06-Feature-Transformation/assets/119390134/92129b9f-10fd-4218-a257-fc4ab20f55c1)
 
